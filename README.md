@@ -4,6 +4,6 @@
 
 ---
 
-<!-- [Pics-sample-link](https://dark-mode-sample.vercel.app/) -->
+[Accordion-sample-link](https://accordion-style-sample.vercel.app/)
 
 ![alt text](img/accordion.png)
